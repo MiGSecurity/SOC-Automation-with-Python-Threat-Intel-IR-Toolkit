@@ -1,0 +1,5 @@
+[API_KEYS]
+VIRUSTOTAL = your_virustotal_key_here
+ABUSEIPDB = your_abuseipdb_key_here
+SHODAN = your_shodan_key_here
+OTX = your_otx_key_here

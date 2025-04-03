@@ -1,0 +1,4 @@
+requests
+colorama
+shodan
+OTXv2
