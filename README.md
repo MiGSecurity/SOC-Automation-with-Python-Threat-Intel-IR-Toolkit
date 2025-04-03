@@ -23,7 +23,7 @@ The tool can then output a consolidated report with details like malicious score
 
 Then edit config.ini with your keys
 
-#Example:
+# Example:
  ```bash
 python threatscan.py --indicator 8.8.8.8
  ```
