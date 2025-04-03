@@ -21,15 +21,16 @@ The tool can then output a consolidated report with details like malicious score
    pip install -r requirements.txt
    cp config.ini.example config.ini
 
-# then edit config.ini with your keys
+# Then edit config.ini with your keys
 
 Example:
+ ```bash
 python threatscan.py --indicator 8.8.8.8
-
+ ```
 🧠 TODO
 
-    Domain and hash support
+   Domain and hash support
 
-    Web GUI with Streamlit
+   Web GUI with Streamlit
 
-    Modular refactor
+   Modular refactor
