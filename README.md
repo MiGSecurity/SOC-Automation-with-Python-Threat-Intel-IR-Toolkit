@@ -17,9 +17,10 @@ The tool can then output a consolidated report with details like malicious score
    ```bash
    git clone https://github.com/yourusername/threatscan.git
    cd threattool
-   ```
    pip install -r requirements.txt
    cp config.ini.example config.ini
+   ```
+
 
 Then edit config.ini with your keys
 
