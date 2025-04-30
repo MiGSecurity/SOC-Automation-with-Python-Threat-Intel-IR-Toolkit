@@ -30,7 +30,7 @@ python threatscan.py --indicator 8.8.8.8
  ```
 🧠 TODO
 
-   Domain and hash support
+  ✅ Domain and hash support
 
    Web GUI with Streamlit
 
